@@ -55,9 +55,9 @@ AWS & Spark when things need to scale.
 
 I’ve worked across forecasting, clustering, NLP, deep learning, KPI design, and automation pipelines.
 
-But more than tools, I care about building end-to-end systems:
+You can find out more about the softwares I've worked with in the 'Tech Stack' part.
 
-Raw data → clean schema → model → decision → measurable outcome.
+<!-- But more than tools, I care about building end-to-end systems: Raw data → clean schema → model → decision → measurable outcome. -->
 
 ---
 
