@@ -1,4 +1,4 @@
-# Malay Patel
+# Malay Patel 
 
 **Operations Strategy & Business Intelligence Analyst Intern @ IMMEC** · MS Business Analytics & AI, University of Maryland
 
